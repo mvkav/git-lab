@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.exe
+*.o
+.idea/
+.vscode/
